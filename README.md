@@ -197,7 +197,7 @@ function change_color(element){
 ## OUTPUT:
 
 ![output1](./paintapp/static/img/OUTPUT2.png)
-![output2](./paintapp/static/img/OUTPUt1.png)
+![output2](./paintapp/static/img/OUTPUT1.png)
 
 ## Result:
 
